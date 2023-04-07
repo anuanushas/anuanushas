@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://codewithanusha.blogspot.com/](https://codewithanusha.blogspot.com/)
 
-- 💬 Ask me about **About Technology**
+- 💬 Ask me  **About Technology**
 
 - 📫 How to reach me **anu636238@gmail.com**
 
