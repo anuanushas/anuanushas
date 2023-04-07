@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I Think I Am Smart**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="padding:10px">
 <a href="https://twitter.com/anushasanus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushasanus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anushasanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushasanu" height="30" width="40" /></a>
 <a href="https://instagram.com/anush_a2734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anush_a2734" height="30" width="40" /></a>
